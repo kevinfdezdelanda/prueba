@@ -36,7 +36,6 @@ public class TelefonoMovil {
 
 	public void setSaldo(int saldo) {
 		this.saldo = saldo;
-		System.out.println("xd");
 	}
 	
 	
